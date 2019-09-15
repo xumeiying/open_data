@@ -24,3 +24,4 @@ Alibaba is an internet-based e-commerce website that covers business-to-business
 - The paper concludes that betterregulationofe-cigarettemarketing messages on manufacturers’ websites is needed in China. The frequent claims of health benefits, smoking cessation, strategies appealing to youth and women are concerning, especially targeting women. Regulators should prohibit marketing claims of health benefits, no SHS exposure and value for smoking cessation in China until health-related, quality and safety issues have been adequately addressed. To avoid e-cigarette use for initiation to nicotine addiction, messages targeting youth and women should be prohibited.
 
 
+
